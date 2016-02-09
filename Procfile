@@ -1,1 +1,1 @@
-web: gunicorn mezz_schutz.wsgi --log-file -
+web: gunicorn mezz_shutz.wsgi --log-file -
